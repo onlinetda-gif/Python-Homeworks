@@ -38,7 +38,7 @@ Daily News — Thursday, 18 August 1977
 # Задание 2 (необязательное)
 Добавьте в класс Rate параметр diff (со значениями True или False), который, в случае значения True в методах курсов валют (eur, usd и т. д.), будет возвращать не курс валюты, а изменение по сравнению с прошлым значением. Считайте, что значение diff=True параметр будет принимать только при возврате значения курса (format_=‘value’). При отображении всей информации о валюте (format_=‘full’) он не используется.
 
-# [HW 9 - Домашнее задание №9] (https://github.com/onlinetda-gif/Python-Homeworks/blob/main/HW9.ipynb)
+# [HW 9 - Домашнее задание №9](https://github.com/onlinetda-gif/Python-Homeworks/blob/main/HW9.ipynb)
 ## Библиотека Pandas
 к этому ДЗ также относятся файлы:
 - movies.csv (Задание 1)
@@ -79,7 +79,7 @@ geo_data = {
 
 Результат классификации запишите в отдельный столбец region.
 
-# [HW_final - Итоговое домашнее задание] (https://github.com/onlinetda-gif/Python-Homeworks/blob/main/HW_final.ipynb)
+# [HW_final - Итоговое домашнее задание](https://github.com/onlinetda-gif/Python-Homeworks/blob/main/HW_final.ipynb)
 к этому ДЗ также относится файл:
 movies_stats.csv
 
